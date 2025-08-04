@@ -115,11 +115,6 @@ docker-compose up --build
 
 ---
 
-## 🧪 Testing (Coming Soon)
-
-* ✅ Unit testing (Jest)
-* ✅ Swagger/OpenAPI docs
-* ✅ CI/CD with GitHub Actions
 
 ## 👨‍💻 Author
 
